@@ -9,5 +9,5 @@
 
 /**prototypes*/
 void rsa_factorize(int number);
-
+int factorize(char *check);
 #endif
